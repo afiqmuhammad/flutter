@@ -11,7 +11,7 @@ class _DaftarTemanScreenState extends State<DaftarTemanScreen> {
   final List<String> semuaTeman = const [
     'waras tri wijaya',
     'abdul fuad',
-    'adi tegar',
+    'adi tegar.',
     'aji kia',
     'amanda',
     'alfi fadhli',
@@ -106,7 +106,6 @@ class DetailTemanScreen extends StatelessWidget {
       appBar: AppBar(title: const Text("Detail Teman")),
       body: Center(
         child: Text(
-        
           'Ini adalah detail dari $nama.',
           style: const TextStyle(fontSize: 20),
         ),
