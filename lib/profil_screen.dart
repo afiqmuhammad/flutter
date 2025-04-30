@@ -71,7 +71,7 @@ class _ProfilScreenState extends State<ProfilScreen> {
 
             // Tentang Diri
             Text(
-              'Developer Flutter | Penggemar Teknologi | Senang Berbagi Ilmu',
+              'Developer Flutterr | Penggemar Teknologi | Senang Berbagi Ilmu',
               style: TextStyle(fontSize: 16, color: subTextColor),
               textAlign: TextAlign.center,
             ),

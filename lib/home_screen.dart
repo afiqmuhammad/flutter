@@ -11,7 +11,7 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.lightBlue[50], // Background warna biru muda
       appBar: AppBar(
-        backgroundColor: Colors.blueAccent, // AppBar biru terang
+        backgroundColor: Colors.blueAccent, 
         title: const Text("Beranda", style: TextStyle(color: Colors.white)),
         actions: [
           IconButton(
@@ -44,7 +44,7 @@ class HomeScreen extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               const Text(
-                'Selamat Datang!',
+                'Selamat Datang',
                 style: TextStyle(
                   fontSize: 28,
                   fontWeight: FontWeight.bold,

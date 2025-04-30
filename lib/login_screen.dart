@@ -21,7 +21,7 @@ class _LoginScreenState extends State<LoginScreen> {
     if (email == 'afiq@gmail.com' && password == '123456') {
       ScaffoldMessenger.of(
         context,
-      ).showSnackBar(const SnackBar(content: Text('Login berhasil!')));
+      ).showSnackBar(const SnackBar(content: Text('Login berhasil!!')));
 
       Navigator.pushReplacement(
         context,

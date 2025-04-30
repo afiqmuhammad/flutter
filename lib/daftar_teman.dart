@@ -19,7 +19,7 @@ class _DaftarTemanScreenState extends State<DaftarTemanScreen> {
     'dyah purwaningsih',
     'rafael theo',
     'muhammad noviyanto',
-    'maheswara',
+    'maheswaraa',
     'nur rahman',
     'claudea cahaya',
     'nabilah junita',

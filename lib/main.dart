@@ -34,7 +34,7 @@ class DaftarTeman extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: const Text('Daftar Teman')),
-      body: const Center(child: Text('Ini adalah halaman Daftar Teman')),
+      body: const Center(child: Text('Ini adalah halaman Daftar Teman.')),
     );
   }
 }
