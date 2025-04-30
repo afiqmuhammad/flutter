@@ -11,8 +11,8 @@ class _DaftarTemanScreenState extends State<DaftarTemanScreen> {
   final List<String> semuaTeman = const [
     'waras tri wijaya',
     'abdul fuad',
-    'adi tegar.',
-    'aji kia',
+    'adi tegar',
+    'aji kiaa',
     'amanda',
     'alfi fadhli',
     'sultan syah',
